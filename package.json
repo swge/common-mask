@@ -1,0 +1,31 @@
+{
+    "name": "common-mask",
+    "version": "1.0.0",
+    "description": "This is a library for masking properties of any objects",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "ts-node test/index.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/swge/common-mask.git"
+    },
+    "keywords": [
+        "mask",
+        "log",
+        "logging",
+        "logger",
+        "security"
+    ],
+    "author": "Kevin Ge",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/swge/common-mask/issues"
+    },
+    "homepage": "https://github.com/swge/common-mask#readme",
+    "devDependencies": {
+        "ts-node": "^8.6.2",
+        "typescript": "^3.8.2"
+    }
+}
